@@ -1,0 +1,15 @@
+group,keywords,target4_volume,us_volume,median_cpc,median_bid_low,median_bid_high
+head terms (probe),38,38900,224060,5.5,1.08,4.23
+NY / NYC / LI,50,7980,10770,5.19,1.16,3.72
+PA / Poconos,58,7300,9760,6.36,1.39,5.23
+activity + overnight,147,6060,15220,3.2,0.87,2.81
+brand,50,5380,6380,7.22,1.67,5.13
+NJ,16,5350,5910,4.1,0.68,3.49
+near me,18,3800,16390,4.78,0.92,4.05
+CT,17,1650,2010,5.15,1.28,10.67
+cost / tuition,40,1530,1590,3.2,1.1,6.22
+Philly / East Coast,14,1190,1250,3.43,1.59,4.07
+age,13,910,4450,6.29,1.17,6.8
+session length,16,490,420,4.21,1.42,4.82
+"format (coed, best, private)",6,310,410,1.13,1.0,2.92
+first-timer,2,40,20,,,

@@ -1,0 +1,6 @@
+# 1.1 GB mirror of camplindenmere.com, rebuild with wget (see README)
+clone/
+__pycache__/
+research/deep/cache/
+research/deep/*.out
+research/deep/*.err
