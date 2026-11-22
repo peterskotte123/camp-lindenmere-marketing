@@ -31,9 +31,12 @@ Volumes and CPCs are Google Ads estimates pulled through DataForSEO on 2026-11-0
 
 ## Site clone
 
-A local mirror of the live site was built for mocking up changes. It is 1.1 GB and not in the repo. To rebuild:
+`clone/` is a full mirror of camplindenmere.com taken 2026-11-21: 97 pages, the theme, scripts, fonts and the uploads library (about 1.1 GB). Internal links are rewritten to local paths; analytics and HubSpot tracking point at a dead domain so browsing the clone does not touch the camp's real reports. The camp-song audio files were skipped.
+
+To view it:
 
 ```
-mkdir clone && cd clone
-wget --mirror --page-requisites --convert-links --adjust-extension --no-parent https://camplindenmere.com/
+cd clone && python3 server.py 8765
 ```
+
+Then open http://localhost:8765/ (use localhost, not 127.0.0.1, or YouTube embeds refuse to play). The small server exists because WordPress links assets with version query strings that a plain file server cannot resolve. The hero video, YouTube embeds, the 360 tour and enrollment links still load from the internet.
