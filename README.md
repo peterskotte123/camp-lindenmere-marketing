@@ -10,6 +10,7 @@ Keyword demand, click costs, competitor sweep, acquisition cost and lifetime val
 | `research/BRIEF.html` | Same brief as a web page, prints to three letter pages |
 | `research/HANDOFF.md` | How the research was done, the numbers, the seven-campaign structure, caveats |
 | `research/STRATEGY.md` | Multichannel plan: offer, Lohikan window, compounding channels, paid traffic, calendar, kill rules |
+| `research/SEO-PLAN.md` | Organic search plan: current rankings, page-two keywords, activity pages, blog, technical fixes |
 | `research/CAC-LTV.md` | What a camper is worth and what each channel should cost, with sources |
 | `research/competitors-2026-11-05.md` | 24 Poconos camps: prices, early credits, trials, guarantees, Instagram, fairs |
 
